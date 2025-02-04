@@ -1,0 +1,7 @@
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task4_\Task4_\bin\Debug\Task4_.exe.config
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task4_\Task4_\bin\Debug\Task4_.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task4_\Task4_\bin\Debug\Task4_.pdb
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task4_\Task4_\obj\Debug\Task4_.csproj.AssemblyReference.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task4_\Task4_\obj\Debug\Task4_.csproj.CoreCompileInputs.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task4_\Task4_\obj\Debug\Task4_.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task4_\Task4_\obj\Debug\Task4_.pdb

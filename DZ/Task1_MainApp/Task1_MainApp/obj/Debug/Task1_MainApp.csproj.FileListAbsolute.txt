@@ -1,0 +1,7 @@
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task1_MainApp\Task1_MainApp\bin\Debug\Task1_MainApp.exe.config
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task1_MainApp\Task1_MainApp\bin\Debug\Task1_MainApp.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task1_MainApp\Task1_MainApp\bin\Debug\Task1_MainApp.pdb
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task1_MainApp\Task1_MainApp\obj\Debug\Task1_MainApp.csproj.AssemblyReference.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task1_MainApp\Task1_MainApp\obj\Debug\Task1_MainApp.csproj.CoreCompileInputs.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task1_MainApp\Task1_MainApp\obj\Debug\Task1_MainApp.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task1_MainApp\Task1_MainApp\obj\Debug\Task1_MainApp.pdb

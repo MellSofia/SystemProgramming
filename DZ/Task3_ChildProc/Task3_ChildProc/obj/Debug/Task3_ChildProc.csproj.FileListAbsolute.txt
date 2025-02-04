@@ -1,0 +1,7 @@
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task3_ChildProc\Task3_ChildProc\bin\Debug\Task3_ChildProc.exe.config
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task3_ChildProc\Task3_ChildProc\bin\Debug\Task3_ChildProc.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task3_ChildProc\Task3_ChildProc\bin\Debug\Task3_ChildProc.pdb
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task3_ChildProc\Task3_ChildProc\obj\Debug\Task3_ChildProc.csproj.AssemblyReference.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task3_ChildProc\Task3_ChildProc\obj\Debug\Task3_ChildProc.csproj.CoreCompileInputs.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task3_ChildProc\Task3_ChildProc\obj\Debug\Task3_ChildProc.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task3_ChildProc\Task3_ChildProc\obj\Debug\Task3_ChildProc.pdb

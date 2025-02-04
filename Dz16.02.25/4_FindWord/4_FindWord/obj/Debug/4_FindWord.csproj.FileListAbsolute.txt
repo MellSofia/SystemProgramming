@@ -1,0 +1,7 @@
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\4_FindWord\4_FindWord\bin\Debug\4_FindWord.exe.config
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\4_FindWord\4_FindWord\bin\Debug\4_FindWord.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\4_FindWord\4_FindWord\bin\Debug\4_FindWord.pdb
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\4_FindWord\4_FindWord\obj\Debug\4_FindWord.csproj.AssemblyReference.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\4_FindWord\4_FindWord\obj\Debug\4_FindWord.csproj.CoreCompileInputs.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\4_FindWord\4_FindWord\obj\Debug\4_FindWord.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\4_FindWord\4_FindWord\obj\Debug\4_FindWord.pdb

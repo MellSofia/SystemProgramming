@@ -1,0 +1,7 @@
+C:\Users\Student_06\Desktop\Ахмутдиновой\Exam_Task2\Exam_Task2\bin\Debug\Exam_Task2.exe.config
+C:\Users\Student_06\Desktop\Ахмутдиновой\Exam_Task2\Exam_Task2\bin\Debug\Exam_Task2.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\Exam_Task2\Exam_Task2\bin\Debug\Exam_Task2.pdb
+C:\Users\Student_06\Desktop\Ахмутдиновой\Exam_Task2\Exam_Task2\obj\Debug\Exam_Task2.csproj.AssemblyReference.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\Exam_Task2\Exam_Task2\obj\Debug\Exam_Task2.csproj.CoreCompileInputs.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\Exam_Task2\Exam_Task2\obj\Debug\Exam_Task2.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\Exam_Task2\Exam_Task2\obj\Debug\Exam_Task2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\2_Febonachi\2_Febonachi\bin\Debug\2_Febonachi.exe.config
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\2_Febonachi\2_Febonachi\bin\Debug\2_Febonachi.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\2_Febonachi\2_Febonachi\bin\Debug\2_Febonachi.pdb
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\2_Febonachi\2_Febonachi\obj\Debug\2_Febonachi.csproj.AssemblyReference.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\2_Febonachi\2_Febonachi\obj\Debug\2_Febonachi.csproj.CoreCompileInputs.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\2_Febonachi\2_Febonachi\obj\Debug\2_Febonachi.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\2_Febonachi\2_Febonachi\obj\Debug\2_Febonachi.pdb

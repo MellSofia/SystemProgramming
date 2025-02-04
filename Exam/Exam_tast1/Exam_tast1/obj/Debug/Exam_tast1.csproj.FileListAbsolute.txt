@@ -1,0 +1,7 @@
+C:\Users\Student_06\Desktop\Ахмутдиновой\Exam_tast1\Exam_tast1\bin\Debug\Exam_tast1.exe.config
+C:\Users\Student_06\Desktop\Ахмутдиновой\Exam_tast1\Exam_tast1\bin\Debug\Exam_tast1.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\Exam_tast1\Exam_tast1\bin\Debug\Exam_tast1.pdb
+C:\Users\Student_06\Desktop\Ахмутдиновой\Exam_tast1\Exam_tast1\obj\Debug\Exam_tast1.csproj.AssemblyReference.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\Exam_tast1\Exam_tast1\obj\Debug\Exam_tast1.csproj.CoreCompileInputs.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\Exam_tast1\Exam_tast1\obj\Debug\Exam_tast1.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\Exam_tast1\Exam_tast1\obj\Debug\Exam_tast1.pdb

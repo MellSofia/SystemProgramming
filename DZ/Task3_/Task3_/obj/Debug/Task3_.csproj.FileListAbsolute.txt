@@ -1,0 +1,7 @@
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task3_\Task3_\bin\Debug\Task3_.exe.config
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task3_\Task3_\bin\Debug\Task3_.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task3_\Task3_\bin\Debug\Task3_.pdb
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task3_\Task3_\obj\Debug\Task3_.csproj.AssemblyReference.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task3_\Task3_\obj\Debug\Task3_.csproj.CoreCompileInputs.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task3_\Task3_\obj\Debug\Task3_.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\DZ\Task3_\Task3_\obj\Debug\Task3_.pdb

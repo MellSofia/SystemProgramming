@@ -1,0 +1,7 @@
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\3_SortAlg\3_SortAlg\bin\Debug\3_SortAlg.exe.config
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\3_SortAlg\3_SortAlg\bin\Debug\3_SortAlg.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\3_SortAlg\3_SortAlg\bin\Debug\3_SortAlg.pdb
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\3_SortAlg\3_SortAlg\obj\Debug\3_SortAlg.csproj.AssemblyReference.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\3_SortAlg\3_SortAlg\obj\Debug\3_SortAlg.csproj.CoreCompileInputs.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\3_SortAlg\3_SortAlg\obj\Debug\3_SortAlg.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\3_SortAlg\3_SortAlg\obj\Debug\3_SortAlg.pdb

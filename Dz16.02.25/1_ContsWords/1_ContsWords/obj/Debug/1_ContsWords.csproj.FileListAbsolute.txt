@@ -1,0 +1,7 @@
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\1_ContsWords\1_ContsWords\bin\Debug\1_ContsWords.exe.config
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\1_ContsWords\1_ContsWords\bin\Debug\1_ContsWords.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\1_ContsWords\1_ContsWords\bin\Debug\1_ContsWords.pdb
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\1_ContsWords\1_ContsWords\obj\Debug\1_ContsWords.csproj.AssemblyReference.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\1_ContsWords\1_ContsWords\obj\Debug\1_ContsWords.csproj.CoreCompileInputs.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\1_ContsWords\1_ContsWords\obj\Debug\1_ContsWords.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\Dz16.02.25\1_ContsWords\1_ContsWords\obj\Debug\1_ContsWords.pdb
